@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/174463/be031ebe955a40fd84a02f7e5662ba1f
+bundleId: https://api.rpubs.com/api/v1/document/174463/be031ebe955a40fd84a02f7e5662ba1f
+url: http://rpubs.com/sid101/174463/edit
+when: 1461463195.63338

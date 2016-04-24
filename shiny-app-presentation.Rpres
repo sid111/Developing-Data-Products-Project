@@ -7,8 +7,8 @@ autosize: true
 Source And Purpose
 ==========================================================
 
-This Shiny App is for searching and visulizating LEGO Sets information.    
-The dataset is from [Rebrickable.com](http://rebrickable.com/) that contains the basic information of each set (set id, year, number of pieces, theme, set name).  
+This Shiny App is for searching and visualizating LEGO Sets information.    
+The dataset is from [Rebrickable](http://rebrickable.com/) that contains the basic information of each set (set id, year, number of pieces, theme, set name).  
 Data Source: http://rebrickable.com/downloads 
 
 Initializing Lego Dataset
@@ -25,11 +25,12 @@ Published App On Slidify
 ========================================================
 
 
-The Application developed for analysos of lego data set is available at [My Lego Data Analysis Application](https://sid101.shinyapps.io/Developing-Data-Products-Project/)
+The Application developed for analysis of lego data set is available at [My Lego Data Analysis Application](https://sid101.shinyapps.io/Developing-Data-Products-Project/)
 
 
 
-Published App On Slidify
+Github Repo Containing Scripts
 ========================================================
 
+The source code server and its ui for analysis of lego data set is available at [My Developing Data Products Project Repository](https://github.com/sid111/Developing-Data-Products-Project)
 
